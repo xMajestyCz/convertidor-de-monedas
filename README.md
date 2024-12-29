@@ -21,9 +21,9 @@ Este proyecto es un conversor de monedas interactivo en Java que utiliza la API 
 Asegúrate de agregar la biblioteca Gson a tu proyecto. Puedes descargar el archivo JAR desde este [link](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0)
 
 ## Uso
-![Captura de pantalla 2024-12-28 211733](https://github.com/user-attachments/assets/3b64f55a-602a-4995-8d5e-8be2fc551023)
+![Captura de pantalla 2024-12-28 211733](https://github.com/user-attachments/assets/51fa8cfe-8827-4ded-b66d-b0fbdc195857)
+![Captura de pantalla 2024-12-28 210620](https://github.com/user-attachments/assets/f1873291-5087-44c3-9214-ed1548791c99)
 
-![Captura de pantalla 2024-12-28 210620](https://github.com/user-attachments/assets/af4c2235-ce81-4ea2-8df5-122ceed2400c)
 
 
 ## Notas
