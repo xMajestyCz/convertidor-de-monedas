@@ -21,8 +21,10 @@ Este proyecto es un conversor de monedas interactivo en Java que utiliza la API 
 Asegúrate de agregar la biblioteca Gson a tu proyecto. Puedes descargar el archivo JAR desde este [link](https://mvnrepository.com/artifact/com.google.code.gson/gson/2.11.0)
 
 ## Uso
-![image](https://github.com/user-attachments/assets/d3f124f0-6b0e-4068-af7f-5fb14431fde2)
-![image](https://github.com/user-attachments/assets/b370f9ab-ca56-4ca1-a140-7981674767e5)
+![Captura de pantalla 2024-12-28 211733](https://github.com/user-attachments/assets/3b64f55a-602a-4995-8d5e-8be2fc551023)
+
+![Captura de pantalla 2024-12-28 210620](https://github.com/user-attachments/assets/af4c2235-ce81-4ea2-8df5-122ceed2400c)
+
 
 ## Notas
 Este proyecto utiliza una clave API de prueba (add198d4d40a7afa664fb9ca). Asegúrate de generar tu propia clave API desde [ExchangeRate-API](https://www.exchangerate-api.com/) para evitar limitaciones en el uso.
